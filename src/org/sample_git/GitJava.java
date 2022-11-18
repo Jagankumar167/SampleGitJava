@@ -11,6 +11,10 @@ public class GitJava {
 		System.out.println("The Employee Salary is---> 20,000");
 
 	}
+	private void empName() {
+		System.out.println("The Employee Name is----> Jagankumar");
+
+	}
 	public static void main(String[] args) {
 		GitJava gj = new GitJava();
 		gj.empId();
